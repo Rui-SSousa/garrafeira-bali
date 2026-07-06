@@ -67,7 +67,7 @@ garrafeira-bali/
 Requirements: Python 3.10+, a free Google AI Studio API key.
 
 ```bash
-git clone https://github.com/<your-username>/garrafeira-bali.git
+git clone https://github.com/Rui-SSousa/garrafeira-bali.git
 cd garrafeira-bali
 
 python -m venv .venv

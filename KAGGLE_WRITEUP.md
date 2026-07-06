@@ -78,7 +78,7 @@ Next steps: exposing the order tools through an MCP server so other agents (e.g.
 
 ## Links
 
-- **Public code (GitHub):** https://github.com/<your-username>/garrafeira-bali — includes README with architecture diagram and full setup instructions.
+- **Public code (GitHub):** https://github.com/Rui-SSousa/garrafeira-bali — includes README with architecture diagram and full setup instructions.
 - **Video (YouTube):** <your-video-url> — 5-minute walkthrough: problem, architecture, live demo (including a blocked order), and the Antigravity build.
 
 *No API keys or secrets are included anywhere in the repository.*

@@ -1,0 +1,33 @@
+{
+  "shop": "Garrafeira Bali",
+  "currency": "IDR",
+  "wines": [
+    {
+      "wine_id": "VV-001",
+      "name": "Casa do Lima Vinho Verde 2024",
+      "region": "Vinho Verde, Portugal",
+      "style": "White - light, crisp, slightly sparkling",
+      "tasting_notes": "Green apple, lime, white flowers; low alcohol (10.5%) and very refreshing",
+      "food_pairing": "Grilled seafood, sushi, seafood nasi goreng, hot Bali afternoons",
+      "price_idr": 495000
+    },
+    {
+      "wine_id": "DR-002",
+      "name": "Quinta do Vale Escuro Douro Tinto 2021",
+      "region": "Douro, Portugal",
+      "style": "Red - full-bodied, structured",
+      "tasting_notes": "Dark berries, plum, black pepper and a touch of oak (13.5%)",
+      "food_pairing": "Babi guling, grilled meats, hard cheeses, hearty pasta",
+      "price_idr": 745000
+    },
+    {
+      "wine_id": "PT-003",
+      "name": "Serrano 10 Year Tawny Port",
+      "region": "Porto, Portugal",
+      "style": "Fortified - sweet, nutty",
+      "tasting_notes": "Caramel, roasted nuts, dried figs, long warm finish (20%)",
+      "food_pairing": "Desserts, dark chocolate, blue cheese, sunset conversations",
+      "price_idr": 1150000
+    }
+  ]
+}
